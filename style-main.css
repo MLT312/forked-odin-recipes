@@ -1,6 +1,15 @@
 .red-highlight {
     background-color: red;
 }
+.whitetext {
+    color: white;
+}
+.ftbold {
+    font-weight: bold;
+}
+.ftsize-32 {
+    font-size: 32px;
+}
 .centertext {
     text-align: center;
 }
